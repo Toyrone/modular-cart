@@ -1,0 +1,22 @@
+{
+  "name": "sass-boilerplate",
+  "version": "1.0.0",
+  "description": "A Sass boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sass",
+    "gulp"
+  ],
+  "author": "Toyosi Akinoso",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "jest": "^22.4.2",
+    "node-sass": "^4.7.2"
+  }
+}
